@@ -1,10 +1,10 @@
 <?php
 /**
- * Plugin Name: Oxygen Blocklab Support
+ * Plugin Name: Oxygen Block Lab Support
  * Plugin URI:  https://github.com/wplit/oxygen-block-lab-support/
  * GitHub URI:  wplit/oxygen-block-lab-support/
  * Description: Allow creation of Block Lab block template without using a theme. Made for Oxygen Builder.
- * Version:     1.0.0
+ * Version:     1.0.1
  * Author:      David Browne
  * Author URI:  https://wplit.com/
  *
