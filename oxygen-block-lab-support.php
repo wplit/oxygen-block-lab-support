@@ -2,8 +2,8 @@
 /**
  * Plugin Name: Oxygen Blocklab Support
  * Plugin URI:  https://github.com/wplit/oxygen-block-lab-support/
- * GitHub URI:  wplit/oxygen-edd-support/
- * Description: Allows Block Lab block template customisation without using a theme. Made for Oxygen Builder.
+ * GitHub URI:  wplit/oxygen-block-lab-support/
+ * Description: Allow creation of Block Lab block template without using a theme. Made for Oxygen Builder.
  * Version:     1.0.0
  * Author:      David Browne
  * Author URI:  https://wplit.com/
