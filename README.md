@@ -6,7 +6,7 @@
 
 [Block lab](https://wordpress.org/plugins/block-lab/) is a free plugin that offers an easy way to add custom Gutenberg blocks to WordPress. By default, a theme is needed to store the template files for each block. This plugin simply allows you to add your new block templates without the need for a theme. Built especially for [Oxygen](http://oxygenbuilder.com/) where the theme is completely disabled.
 
-See [documentation on customising template files in Easy Digital Downloads](https://docs.easydigitaldownloads.com/article/1216-moving-edd-templates-to-your-theme) for reference.
+See [documentation on creating block template files in Block Lab](https://github.com/getblocklab/block-lab/wiki/Displaying-custom-blocks) for reference.
  
 
 ## Installation ##
