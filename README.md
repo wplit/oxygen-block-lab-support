@@ -17,7 +17,7 @@ See [documentation on creating block template files in Block Lab](https://github
 
 ## Usage ##
 
-1. Add your block template files for your custom blocks into block_lab_templates/blocks/ found in this plugin.
+1. Add your block template files for your custom blocks into `/block_lab_templates/blocks/` found in this plugin.
 2. In the edit block screen, the template metabox should be green and say 'Template found'.
 
 ## Changelog ##
