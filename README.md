@@ -22,5 +22,9 @@ See [documentation on creating block template files in Block Lab](https://github
 
 ## Changelog ##
 
+### 1.0.1 - Mar 1, 2019 ###
+* Renamed plugin file
+* Added priority on filter
+
 ### 1.0.0 - Mar 1, 2019 ###
 * Initial Release
