@@ -28,7 +28,7 @@ if ( ! defined( 'WPINC' ) ) {
 }
 
 
-add_filter( 'block_lab_template_path', 'lit_new_block_template_path' );
+add_filter( 'block_lab_template_path', 'lit_new_block_template_path', 10, 1 );
 /**
  * Adds plugin subdirectory as new location for block lab to look for block templates.
  * Templates to be stored in /block_lab_templates/blocks/...
